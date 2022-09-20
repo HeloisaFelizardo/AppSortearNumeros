@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AppSortearNumeros",
+    "slug": "AppSortearNumeros",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AppSortearNumeros"
+}
